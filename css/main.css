@@ -1,0 +1,48 @@
+.card {
+    width: 500px;
+    margin: 50px auto;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  
+  .card-header {
+    background-color: #f8f9fa;
+    padding: 20px;
+  }
+  
+  .card-body {
+    padding: 30px;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .form-control {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
+  .greeting-message {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 30px;
+  }
+  
